@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/msgfmt_tests.dir/tests/test_msgfmt.cpp.o -o msgfmt_tests  libmsgfmt_lib.a 

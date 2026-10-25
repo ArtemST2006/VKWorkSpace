@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmsgfmt_lib.a CMakeFiles/msgfmt_lib.dir/src/msgfmt.cpp.o
+/usr/bin/ranlib libmsgfmt_lib.a

@@ -1,0 +1,33 @@
+Start testing: Oct 25 17:51 MSK
+----------------------------------------------------------
+1/2 Testing: msgfmt_tests
+1/2 Test: msgfmt_tests
+Command: "/home/artem/artem/projects/vkworkspace/build-sanitize/msgfmt_tests"
+Directory: /home/artem/artem/projects/vkworkspace/build-sanitize
+"msgfmt_tests" start time: Oct 25 17:51 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"msgfmt_tests" end time: Oct 25 17:51 MSK
+"msgfmt_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: msgfmt_cli
+2/2 Test: msgfmt_cli
+Command: "/tmp/vkworkspace-cmake/cmake/data/bin/cmake" "-DMSGFMT=/home/artem/artem/projects/vkworkspace/build-sanitize/msgfmt" "-DTEST_DIR=/home/artem/artem/projects/vkworkspace/build-sanitize" "-P" "/home/artem/artem/projects/vkworkspace/msgfmt/tests/cli.cmake"
+Directory: /home/artem/artem/projects/vkworkspace/build-sanitize
+"msgfmt_cli" start time: Oct 25 17:51 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"msgfmt_cli" end time: Oct 25 17:51 MSK
+"msgfmt_cli" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 25 17:51 MSK
